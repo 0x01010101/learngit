@@ -1,2 +1,2 @@
 LICENCE
-learn git licence
+learn git licence tip
